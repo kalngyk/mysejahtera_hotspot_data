@@ -2,7 +2,7 @@
 
 Data from MySejahtera Hotspot for the Taiping Town area and Kampar.
 
-See `crawl_taiping.ipynb` on how the data is crawled and generated.
+See crawl_taiping.ipynb on how the data is crawled and generated.
 
 The data are shown on maps through the pages:
 
