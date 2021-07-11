@@ -1,6 +1,6 @@
 
 
-Data from MySejahtera Hotspot for the Taiping (town area), Kampar, 1 Utama, Subang Jaya, and SS2 (PJ).
+Data from MySejahtera Hotspot for the Taiping (town area), Kampar, 1 Utama, Subang Jaya, SS2 (PJ), and south of KL Sentral.
 
 See crawl_taiping.ipynb on how the data is crawled and generated.
 
