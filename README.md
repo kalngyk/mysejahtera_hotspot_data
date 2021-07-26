@@ -14,3 +14,4 @@ The data are shown on maps through the pages:
 - https://kalngyk.github.io/covid_in_klsentralsouth.html
 - https://kalngyk.github.io/covid_in_klcenternorth.html
 - https://kalngyk.github.io/covid_in_nilai.html
+- https://kalngyk.github.io/covid_in_sripetaling.html
