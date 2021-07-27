@@ -1,6 +1,6 @@
 
 
-Data from MySejahtera Hotspot for the Taiping (town area), Kampar, 1 Utama, Subang Jaya, SS2 (PJ), and south of KL Sentral.
+Data from MySejahtera Hotspot for the Taiping (town area), Kampar, 1 Utama, Subang Jaya, SS2 (PJ), north/south of KL Sentral, Nilai, and Sri Petaling.
 
 See crawl_taiping.ipynb on how the data is crawled and generated.
 
@@ -14,3 +14,4 @@ The data are shown on maps through the pages:
 - https://kalngyk.github.io/covid_in_klsentralsouth.html
 - https://kalngyk.github.io/covid_in_klcenternorth.html
 - https://kalngyk.github.io/covid_in_nilai.html
+- https://kalngyk.github.io/covid_in_sripetaling.html
