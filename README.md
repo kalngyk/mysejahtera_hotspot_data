@@ -14,3 +14,5 @@ The data are shown on maps through the pages:
 - https://kalngyk.github.io/covidmap/covid_in_klsentralsouth.html
 - https://kalngyk.github.io/covidmap/covid_in_klcenternorth.html
 - https://kalngyk.github.io/covidmap/covid_in_sripetaling.html
+
+No longer updated after 2 Oct 2021 since 90% of adult population of Malaysia has been vaccinated.
